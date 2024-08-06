@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Deen! 🧑‍🔬
+# Hi there, I'm Mohammad Deen! 🧑‍🔬🖥
 
 ## About Me
 I am a trained biomedical scientist with a focus on translational medicine and a passion for computer science and bioinformatics. I am currently a doctoral candidate at the Institute of Human Genetics, University Hospital Erlangen, and a member of CRC1181. Welcome to my GitHub profile!
