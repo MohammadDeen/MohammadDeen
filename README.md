@@ -72,7 +72,7 @@ FAU Erlangen-Nürnberg
 Kussmaulallee 4, 91054 Erlangen
 
 ## Fun Fact
-I love exploring new technologies and often spend my weekends contributing to open-source projects. When I'm not coding, you can find me hiking or playing chess.
+I love exploring new technologies and often spend my weekends contributing to open-source projects. When I'm not coding or mixing stuff up in the lab, you can find me hiking or playing tennis.
 
 ## Links
 - Visit my [GitHub Page](https://mohammaddeen.github.io/) for more information.
